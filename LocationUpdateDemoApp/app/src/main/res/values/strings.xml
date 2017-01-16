@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LocationUpdateDemoApp</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_name">name</string>
+    <string name="action_submit">SUBMIT</string>
+    <string name="action_sign_in_short">Submit</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="request_permission_again_msg">You can not proceed ahead without providing the required permissions. Please provide those in order to proceed.</string>
+    <string name="exit">EXIT</string>
+    <string name="proceed">PROCEED</string>
+    <string name="dismiss">DISMISS</string>
+    <string name="request_permission_with_dont_ask_again_msg">You have denied access to the required permissions. Please provide those in order to proceed.</string>
+
+</resources>
